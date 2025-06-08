@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="titulo_principal">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="subtitulo_principal">
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="btn_empezar">
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
